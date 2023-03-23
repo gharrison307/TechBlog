@@ -1,78 +1,62 @@
+# Tech Blog [![License: MIT License](https://img.shields.io/badge/license-MIT-blue)](https://www.mit.edu/~amini/LICENSE.md)
 
-  
-  # Tech Blog   [![License: MIT License](https://img.shields.io/badge/license-MIT-blue)](https://www.mit.edu/~amini/LICENSE.md)
-  
-  <a name="description"></a>
-  ## Description
+<a name="description"></a>
 
-  This application includes a website where a user can log on and create a blog post which will be saved on a server for future viewing. 
+## Description
 
+This application includes a website where a user can log on and create a blog post which will be saved on a server for future viewing.
 
-  # Table of Contents
+![A screen shot of the application](./public/images/READMEscreenshot.JPG)
 
-  [Installation Information](#installInstructions)  
+# Table of Contents
 
-  [Usage Infromation](#usageInformation)  
+[Installation Information](#installInstructions)
 
-  [Contributions Information](#contributions)  
+[Usage Infromation](#usageInformation)
 
-  [Test Information](#testInstructions)  
+[Contributions Information](#contributions)
 
-  [License Information](#license)  
+[Test Information](#testInstructions)
 
-  [Contact Information](#contactMe)  
+[License Information](#license)
 
-  <a name="installinstructions"></a>
-  ## Installation
-  Please use the "npm i" command in the command line interface to install neccessary dependencies.
+[Contact Information](#contactMe)
 
+<a name="installinstructions"></a>
 
+## Installation
 
+Please use the "npm i" command in the command line interface to install neccessary dependencies.
 
+<a name="usage"></a>
 
+## Usage
 
-  <a name="usage"></a>
-  ## Usage  
-  Start the application by using the "node index.js" command in the command line interface.
+Start the application by using the "node index.js" command in the command line interface.
 
+<a name="contributions"></a>
 
+## Contributors
 
+n/a
 
+<a name="testInstructions"></a>
 
+## Test Information
 
-  <a name="contributions"></a>
-  ## Contributors  
-  n/a
+n/a
 
+<a name="license"></a>
 
+## License Information
 
+This project utilizes the MIT License. Please see [MIT License](https://www.mit.edu/~amini/LICENSE.md) for more information.
 
+<a name="contactMe"></a>
 
+## Question or Concerns?
 
-  <a name="testInstructions"></a>
-  ## Test Information  
-  n/a
+Please reach out with any questions or concerns.
 
-
-
-
-
-
-  <a name="license"></a>
-  ## License Information  
-
-  This project utilizes the MIT License. Please see [MIT License](https://www.mit.edu/~amini/LICENSE.md) for more information.
-
-
-
-
-
-
-  <a name="contactMe"></a>
-  ## Question or Concerns?  
-
-  Please reach out with any questions or concerns.  
-
-  Github Username: gharrison307  
-  Email: 
- 
+Github Username: gharrison307  
+ Email:
